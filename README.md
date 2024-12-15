@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Rachida.
-- 👀 I’m interested in ML & AI.
+- 👀 I’m interested in ML & DL.
 - 🌱 I’m currently learning python.
-- 💞️ I’m looking to collaborate with other programmers..
+- ✨ I’m looking to collaborate with other programmers..
 
 
 <!---
